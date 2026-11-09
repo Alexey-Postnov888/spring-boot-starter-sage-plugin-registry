@@ -1,5 +1,8 @@
 # Spring Boot Starter для Sage Plugin Registry
 
+[![Maven Central](https://img.shields.io/maven-central/v/ru.alexeypostnov/spring-boot-starter-sage-plugin-registry)](https://central.sonatype.com/artifact/ru.alexeypostnov/spring-boot-starter-sage-plugin-registry)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
+
 Spring Boot Starter для интеграции Kotlin- и Java-приложений с Sage Plugin Registry.
 
 Starter автоматически регистрирует экземпляры плагинов, отправляет heartbeat и снимает регистрацию при завершении работы приложения.
